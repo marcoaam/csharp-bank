@@ -1,0 +1,5 @@
+/Users/user/Desktop/bank/Bank/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/user/Desktop/bank/Bank/bin/Debug/Bank.exe.mdb
+/Users/user/Desktop/bank/Bank/bin/Debug/Bank.exe
+/Users/user/Desktop/bank/Bank/obj/x86/Debug/Bank.exe
+/Users/user/Desktop/bank/Bank/obj/x86/Debug/Bank.exe.mdb

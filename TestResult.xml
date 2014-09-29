@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="./bin/debug/bank.exe" total="3" failures="0" not-run="0" date="2014-09-29" time="19:32:02">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Unix 13.4.0.0" platform="Unix" cwd="/Users/user/Documents/csharp_projects/bank/Bank" machine-name="marcosmacbook2.lan" user="user" user-domain="marcosmacbook2.lan" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="./bin/debug/bank.exe" success="True" time="0.045" asserts="0">
+    <results>
+      <test-suite name="Bank" success="True" time="0.037" asserts="0">
+        <results>
+          <test-suite name="AccountTest" success="True" time="0.028" asserts="0">
+            <results>
+              <test-case name="Bank.AccountTest.TransferFunds" executed="True" success="True" time="0.012" asserts="2" />
+              <test-case name="Bank.AccountTest.TransferWithInsufficientFunds" executed="True" success="True" time="0.001" asserts="0" />
+              <test-case name="Bank.AccountTest.TransferWithInsufficientFundsAtomicity" executed="True" success="True" time="0.001" asserts="2" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
